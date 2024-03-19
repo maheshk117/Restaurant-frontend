@@ -1,0 +1,20 @@
+.mainDiv{
+  width: 280px;
+  /* display: flex;
+  flex-direction: row; */
+}
+
+.classBody{
+  height: 300px;
+  
+}
+
+.restaurantImage{
+  /* width: 50rem; */
+  height: 400px;
+}
+
+.restaurantImage:hover{
+  border: 2px solid green;
+  transition: all 0.1s ease-in;
+}

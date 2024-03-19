@@ -1,0 +1,8 @@
+/* *{
+  border: 2px solid black;
+} */
+
+.rowDiv{
+  display: flex;
+  flex-wrap: wrap;
+}
